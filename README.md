@@ -5,7 +5,7 @@
 
 ## 👋 About Me
 
-Senior Devops Engineer at Fox Corporation with expertise in cloud infrastructure, DevOps, and full-stack development. Passionate about building scalable systems, automating workflows, and leveraging modern technologies to solve complex problems.
+Senior Devops Engineer at Fox Corporation with expertise in cloud infrastructure, DevOps, and backend development. Passionate about building scalable systems, automating workflows, and leveraging modern technologies to solve complex problems.
 
 **Location:** New York, NY  
 **Education:** B.S. Computer Science - Villanova University
