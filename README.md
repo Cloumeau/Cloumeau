@@ -1,6 +1,6 @@
 # Christopher Loumeau's Engineering Portfolio
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/christopher-loumeau-7561a5151/))
 [![Email](https://img.shields.io/badge/Email-c2loumeau%40gmail.com-red)](mailto:c2loumeau@gmail.com)
 
 ## 👋 About Me
