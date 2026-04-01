@@ -17,22 +17,22 @@ Assistant Vice President, Cloud Infrastructure Engineer with expertise in cloud 
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-- **Python Frameworks:** Flask and FastAPI
-- **Frontend:** HTML, CSS, JavaScript, React, Next.js
+- **Python Frameworks:** Flask, FastAPI, Dask, and Prefect
 
 ### Data Engineering
-- **Databases:** DynamoDB, Redis, Valkey
-- **Streaming:** Apache Kafka, Strimzi
-- **Analytics:** Databricks
+- **Databases:** Postgresql, DynamoDB, Redis, Iceberg, Polaris
+- **Streaming and SQL Engines:** Apache Kafka, Strimzi, Trino
+- **Analytics:** Databricks, Clickhouse
 
 ### DevOps & Infrastructure
-- **Containers:** Docker, Kubernetes (EKS), Helm, Kustomize
-- **IaC:** Terraform, Crossplane
+- **Containers:** Docker, Kubernetes (EKS & AKS), Helm, Kustomize
+- **IaC:** Terraform, Crossplane, OpenTofu, Crossplane
 - **CI/CD:** ArgoCD, Jenkins, GitHub Actions, Azure Pipelines
 - **CDN:** Akamai, Fastly
 - **Cloud:** AWS, Azure
 - **Monitoring:** Datadog, Prometheus, Grafana, Wiz
-
+- **Machine Learning:**  CUDA, Nvidia GPU Operator, Nvidia Triton, and vLLM
+- 
 ### Certifications
 - ✅ AWS Associate Developer
 - ✅ Anthropic Introduction to Model Context Protocol
