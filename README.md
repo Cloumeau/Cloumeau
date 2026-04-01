@@ -5,7 +5,7 @@
 
 ## 👋 About Me
 
-Senior Devops Engineer at Fox Corporation with expertise in cloud infrastructure, DevOps, and backend development. Passionate about building scalable systems, automating workflows, and leveraging modern technologies to solve complex problems.
+Assistant Vice President, Cloud Infrastructure Engineer with expertise in cloud infrastructure, DevOps, and backend development. Passionate about building scalable systems, automating workflows, and leveraging modern technologies to solve complex problems.
 
 **Location:** New York, NY  
 **Education:** B.S. Computer Science - Villanova University
@@ -15,6 +15,7 @@ Senior Devops Engineer at Fox Corporation with expertise in cloud infrastructure
 ### Backend & Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 - **Python Frameworks:** Flask and FastAPI
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js
