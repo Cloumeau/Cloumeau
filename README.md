@@ -32,7 +32,7 @@ Assistant Vice President, Cloud Infrastructure Engineer with expertise in cloud 
 - **Cloud:** AWS, Azure
 - **Monitoring:** Datadog, Prometheus, Grafana, Wiz
 - **Machine Learning:**  CUDA, Nvidia GPU Operator, Nvidia Triton, and vLLM
-- 
+
 ### Certifications
 - ✅ AWS Associate Developer
 - ✅ Anthropic Introduction to Model Context Protocol
