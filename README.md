@@ -5,7 +5,7 @@
 
 ## 👋 About Me
 
-Assistant Vice President, Cloud Infrastructure Engineer with expertise in cloud infrastructure, DevOps, and backend development. Passionate about building scalable systems, automating workflows, and leveraging modern technologies to solve complex problems.
+Assistant Vice President, Cloud Infrastructure Engineer at Exos Financial with expertise in cloud infrastructure, DevOps, and backend development. Passionate about building scalable systems, automating workflows, and leveraging modern technologies to solve complex problems.
 
 **Location:** New York, NY  
 **Education:** B.S. Computer Science - Villanova University
