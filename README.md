@@ -5,7 +5,7 @@
 
 ## 👋 About Me
 
-Assistant Vice President, Cloud Infrastructure Engineer at Exos Financial with expertise in cloud infrastructure, DevOps, and backend development. Passionate about building scalable systems, automating workflows, and leveraging modern technologies to solve complex problems.
+Applied AI Engineer at Trillium Trading with expertise in cloud infrastructure, DevOps, AI, and backend development. Passionate about building scalable systems, automating workflows, and leveraging AI to solve complex problems.
 
 **Location:** New York, NY  
 **Education:** B.S. Computer Science - Villanova University
